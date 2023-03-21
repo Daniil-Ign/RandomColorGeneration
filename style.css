@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background-color: pink;
+}
+
+button {
+  width: 100vw;
+  height: 60px;
+  font-size: 20px;
+  border: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.527);
+  cursor: pointer;
+  background: radial-gradient(white, rgba(255, 255, 255, 0.705));
+}
